@@ -10,4 +10,4 @@ Other Names:
 * Cat
 
 Prerequisite for: 
-* Kong Pre
+* [[kong-pre]]
