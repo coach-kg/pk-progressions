@@ -5,8 +5,8 @@ tags:
   - Vault
 ---
 Is a variation of:
-- [[Kong]]
+- [[kong]]
 
 Builds to: 
-* [[Double Kong]]
+* [[double-kong]]
 * 

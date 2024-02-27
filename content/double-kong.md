@@ -5,5 +5,5 @@ tags:
   - Vault
 ---
 Variations: 
-- [[Kong]]
+- [[kong]]
 
