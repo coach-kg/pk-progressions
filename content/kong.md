@@ -11,6 +11,8 @@ Other Names:
 
 Prerequisite for: 
 * [[Kong Pre]]
+* [[Kash Vault]]
+* [[Double Kong]]
 
 
 ---

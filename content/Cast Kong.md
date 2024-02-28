@@ -3,7 +3,7 @@ title: Cast Kong
 tags:
 ---
 
-= [[Cast]] + [[Kong]] ( or [[Dive Kong]])
+= [[Cast]] + [[Kong]] (or [[Dive Kong]])
 
 
 ---

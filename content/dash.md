@@ -5,5 +5,7 @@ tags:
   - Vault
 ---
 
+Builds into: 
+* [[Kash Vault]]
 
 ---
