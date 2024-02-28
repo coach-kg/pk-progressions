@@ -1,5 +1,5 @@
 ---
-title: Welcome to Progressions
+title: Get Started!
 tags:
 ---
 
@@ -15,10 +15,5 @@ Schreibe dein **Feedback**:
 bamboozled
 Verbessern, welche Moves willst du noch sehen?
 [Schreib mir auf Telegram»](https://t.me/bamboozled_bumblebee)
-
----
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 ---
