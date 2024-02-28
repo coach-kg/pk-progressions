@@ -8,6 +8,3 @@ tags:
 Variantions:
 * [[loser]]
 
-
-
-* **
