@@ -3,9 +3,9 @@ title: Get Started!
 tags:
 ---
 
-## Was wurde für dich soeben möglich?
+## Was wurde jetzt für dich möglich?
 
-Behalte immer den nächsten möglichen Move im Blick. Man lernt nie nur eine Sache, sondern schafft mit jedem Fortschritt die Grundlage für einen weiteren Durchbruch. Und manchmal ist es sehr einfach diesen Durchbruch mitzunehmen, wenn man das Nächstmögliche kennt. – Hierfür ist diese Seite da. 🙌
+**Behalte immer den nächsten möglichen Move im Blick.** Man lernt nie nur eine Sache, sondern schafft mit jedem Fortschritt die Grundlage für einen weiteren Durchbruch. Und manchmal ist es sehr einfach diesen Durchbruch mitzunehmen, wenn man das Nächstmögliche kennt. – Hierfür ist diese Seite da. 🙌
 
 **Bleib im Flow und lerne gleich mehr. Hier findest du heraus, was für dich gerade eben auch noch möglich wurde!** 🏃
 
@@ -33,7 +33,9 @@ Hier findest du die #Basics! Dein allererster Move wird der Safety Vault sein.
 
 Schaue dir unten im **Graph View** (auf Graph-Icon klicken, zum vergrößern) alle die Verbindungen zwischen den Moves an. Über die Suche (Strg+K) kannst du auch nach dem Move suchen an dem du gerade bist.
 
-Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit du klare nächste Schritte im Fokus hast und beim Parkour lernen Spaß und Erfolg hast, und im Flow bleibst.
+Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit du klare nächste Schritte im Fokus hast und beim Parkour lernen Spaß und Erfolg hast, und im Flow bleibst. 
+
+*Keep teasin' out the possible.*
 
 ---
 
