@@ -1,9 +1,9 @@
 ---
 title: Back Handspring
-tags:
-  - Basics
-  - Flip
+tags: []
 ---
+Prep with:
+* [[macaco]]
 
 Other Names:
 * Flic-Flac
