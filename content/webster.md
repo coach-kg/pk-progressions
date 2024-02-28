@@ -4,7 +4,11 @@ tags:
   - Basics
   - Flip
 ---
+Also called: 
+* Webster [[Frontflip]]
 
 Variantions:
-* [[loser]]
+* [[Loser]]
 
+
+---
