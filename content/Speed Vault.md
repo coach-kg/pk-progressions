@@ -4,6 +4,6 @@ tags:
   - Basics
   - Vault
 ---
-
+"Probably the fastest vault"
 
 ---

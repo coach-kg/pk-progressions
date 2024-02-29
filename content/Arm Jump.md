@@ -1,5 +1,5 @@
 ---
-title: Inverse
+title: Arm Jump
 tags:
   - Basics
   - Jump
