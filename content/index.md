@@ -9,9 +9,9 @@ tags:
 
 **Bleib im Flow und lerne gleich mehr. Hier findest du heraus, was für dich gerade eben auch noch möglich wurde!** 🏃
 
-* Rolle gelernt? Du hast damit auch fast oder bereits die Dive Roll! Und bist ein gutes Stück näher am Webster: **Parkour Rolle --> Dive Roll --> Webster**
-* Oder du willst einen Webster lernen, aber wie herantasten? Finde und übe einen der Prep-Moves: **Webster <-- Dive Roll <-- Parkour Rolle**
-* Du bist krass unterwegs und dein Frontflip sitzt? Dann war der Frontflip eventuell die Grundlage, dafür dass du den Webster lernst. 
+* Rolle gelernt? Du hast damit auch fast oder bereits die Dive Roll! Und bist ein gutes Stück näher am Webster: **[[Parkour Roll]] --> [[Dive Roll]] --> [[Webster]]**
+* Oder du willst einen Webster lernen, aber wie herantasten? Finde und übe einen der Prep-Moves: **[[Webster]] <-- [[Dive Roll]] <-- [[Parkour Roll]]
+* Du bist krass unterwegs und dein [[Frontflip]] sitzt? Dann war der Frontflip eventuell die Grundlage, dafür dass du den Webster lernst. 
 * Oder weil's manchmal eben so ist, probiere doch auch: Zwei Schritte nach vorne und einen zurück. [[Double Kong]] vor [[Kong Pre]]?
 
 
@@ -19,7 +19,7 @@ tags:
 
 ## Für die Anfänger:innen 
 
-Hier findest du die #Basics! Dein allererster Move wird der Safety Vault sein.
+Hier findest du die #Basics! Dein allererster Move wird der **[[Safety Vault]]** sein.
 
 … und mehr Kategorien für Später:
 * #Vault 
@@ -40,10 +40,13 @@ Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit 
 
 ---
 
-## So kannst du beitragen
+## Mach mit!
 
-A) Schicke deine **Verbesserungsvorschläge** [an mich über Telegram.](https://t.me/bamboozled_bumblebee)
-B) Du möchtest, dass **dein Video zu einem Move** hier für andere zu sehen ist? [Nice, dann schreib mir auch gerne.](https://t.me/bamboozled_bumblebee) 
+> [!hint] So kannst du beitragen
+> **Option A:** Schicke deine **Verbesserungsvorschläge** [an mich über Telegram.](https://t.me/bamboozled_bumblebee) 
+> **Option B:** Du möchtest, dass **dein Video zu einem Move** hier für andere zu sehen ist? [Nice, dann schreib mir gerne.](https://t.me/bamboozled_bumblebee) 💪
+> 
+
 
 
 ---
