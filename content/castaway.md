@@ -3,7 +3,13 @@ title: Castaway
 tags:
   - Flip
 ---
-= Cast + Backflip
+kind of a [[Cast]] + [[Backflip]]
+
+
+Builds into: 
+* [[Swing Castaway]]
+* [[Hanging Castaway]]
+
 
 
 ---
