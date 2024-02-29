@@ -26,6 +26,7 @@ Hier findest du die #Basics! Dein allererster Move wird der Safety Vault sein.
 * #WallMove 
 * #Flip 
 * #Transitions 
+* #Other 
 
 ---
 
@@ -39,6 +40,10 @@ Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit 
 
 ---
 
-Schicke deine **Verbesserungsvorschläge** an [mich über Telegram.](https://t.me/bamboozled_bumblebee)
+## So kannst du beitragen
+
+A) Schicke deine **Verbesserungsvorschläge** [an mich über Telegram.](https://t.me/bamboozled_bumblebee)
+B) Du möchtest, dass **dein Video zu einem Move** hier für andere zu sehen ist? [Nice, dann schreib mir auch gerne.](https://t.me/bamboozled_bumblebee) 
+
 
 ---
