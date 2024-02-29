@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Parkour Move Progressions",
+    pageTitle: "Parkour Moves & Pro&shy;gres&shy;sions",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

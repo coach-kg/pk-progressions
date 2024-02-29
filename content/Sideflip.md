@@ -6,7 +6,11 @@ tags:
 ---
 
 Builds into:
+* [[Tunnel Flip]]
 * Cartwheel Sideflip
+* Inward Side
+* [[Trinity Flip]]
+* Sideflip Pre
 
 
 ---
