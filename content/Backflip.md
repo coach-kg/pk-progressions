@@ -14,7 +14,7 @@ Builds into:
 * Back Full
 * [[Palm Flip]]
 * Splat Backflip
-* 
+* …
 
 
 
