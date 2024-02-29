@@ -8,11 +8,11 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Parkour Moves + Progressions",
+    pageTitle: "Parkour Move Progressions",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "plausible", 
     },
     locale: "en-US",
     baseUrl: "pro.move-and-mind.de",
