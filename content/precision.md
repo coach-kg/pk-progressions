@@ -3,6 +3,7 @@ title: Precision
 tags:
   - Basics
   - Landing
+  - Jump
 ---
 Other Names:
 * Pre
