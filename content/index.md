@@ -7,6 +7,9 @@ tags:
 
 **Behalte immer den nächsten möglichen Move im Blick.** Man lernt nie nur eine Sache, sondern schafft mit jedem Fortschritt die Grundlage für einen weiteren Durchbruch. Und manchmal ist es sehr einfach diesen Durchbruch mitzunehmen, wenn man das Nächstmögliche kennt. – Hierfür ist diese Seite da. 🙌
 
+![[pk-progressions-graph-24-02-29.png|]]
+*Der Graph: Visualisierung der Parkour Moves und deren Verbindungen untereinander und Progressions*
+
 **Bleib im Flow und lerne gleich mehr. Hier findest du heraus, was für dich gerade eben auch noch möglich wurde!** 🏃
 
 * Rolle gelernt? Du hast damit auch fast oder bereits die Dive Roll! Und bist ein gutes Stück näher am Webster: **[[Parkour Roll]] --> [[Dive Roll]] --> [[Webster]]**
@@ -32,7 +35,7 @@ Hier findest du die #Basics! Dein allererster Move wird der **[[Safety Vault]]**
 
 ## Der Graph
 
-Schaue dir unten im **Graph View** (auf Graph-Icon klicken, zum vergrößern) alle die Verbindungen zwischen den Moves an. Über die Suche (Strg+K) kannst du auch nach dem Move suchen an dem du gerade bist.
+Schaue dir unten im **Graph View** (auf Graph-Icon klicken, zum vergrößern) all die Verbindungen zwischen den Moves an. Über die Suche (Strg+K) kannst du auch nach dem Move suchen an den du gerade am lernen bist.
 
 Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit du klare nächste Schritte im Fokus hast und beim Parkour lernen Spaß und Erfolg hast, und im Flow bleibst. 
 
