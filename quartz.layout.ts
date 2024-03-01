@@ -8,6 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Move&Mind": "https://move-and-mind.de",
+      "Impressum": "https://move-and-mind.de/impressum/",
+      "Datenschutz": "https://move-and-mind.de/datenschutzerklaerung/",
     },
   }),
 }
