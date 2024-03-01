@@ -4,6 +4,9 @@ tags:
   - Basics
   - Flip
 ---
+Other names:
+* Fly Away
+
 Variations: 
 * [[Gainer]]
 * Layout Backflip
