@@ -8,7 +8,7 @@ tags:
 **Behalte immer den nächsten möglichen Move im Blick.** Man lernt nie nur eine Sache, sondern schafft mit jedem Fortschritt die Grundlage für einen weiteren Durchbruch. Und manchmal ist es sehr einfach diesen Durchbruch mitzunehmen, wenn man das Nächstmögliche kennt. – Hierfür ist diese Seite da. 🙌
 
 ![Netzwerk-Graph der Parkour Moves und Progressions](https://github.com/coach-kg/pk-progressions/blob/b66dda4d56f7b1b01044eadd8a6aac35014d5421/quartz/static/pk-progressions-graph-24-02-29.png?raw=true)
-*Der Graph: Visualisierung der Parkour Moves und deren Verbindungen untereinander und Progressions*
+*Der Graph: Visualisierung der Parkour Moves und deren Verbindungen untereinander.
 
 **Bleib im Flow und lerne gleich mehr. Hier findest du heraus, was für dich gerade eben auch noch möglich wurde!** 🏃
 
