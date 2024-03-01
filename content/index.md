@@ -7,8 +7,10 @@ tags:
 
 **Behalte immer den nächsten möglichen Move im Blick.** Man lernt nie nur eine Sache, sondern schafft mit jedem Fortschritt die Grundlage für einen weiteren Durchbruch. Und manchmal ist es sehr einfach diesen Durchbruch mitzunehmen, wenn man das Nächstmögliche kennt. – Hierfür ist diese Seite da. 🙌
 
+
 ![Netzwerk-Graph der Parkour Moves und Progressions](https://github.com/coach-kg/pk-progressions/blob/b66dda4d56f7b1b01044eadd8a6aac35014d5421/quartz/static/pk-progressions-graph-24-02-29.png?raw=true)
-*Der Graph: Visualisierung der Parkour Moves und deren Verbindungen untereinander.
+*Bild: Ausschnitt des [[content/index#Der Graph|Interaktive Graphen]] mit den Verbindungen & Progressions zwischen den Parkour Moves.*
+
 
 **Bleib im Flow und lerne gleich mehr. Hier findest du heraus, was für dich gerade eben auch noch möglich wurde!** 🏃
 
@@ -35,7 +37,7 @@ Hier findest du die #Basics! Dein allererster Move wird der **[[Safety Vault]]**
 
 ## Der Graph
 
-Schaue dir unten im **Graph View** (auf Graph-Icon klicken, zum vergrößern) all die Verbindungen zwischen den Moves an. Über die Suche (Strg+K) kannst du auch nach dem Move suchen an den du gerade am lernen bist.
+Schaue dir weiter unten im **Graph View** (auf Graph-Icon klicken, zum Vergrößern) all die Verbindungen zwischen den Moves an. Über die Suche (Strg+K) kannst du auch nach dem Move suchen an den du gerade am lernen bist.
 
 Teil unserer Mission ist es hier, dir Zwischenstufen der Moves zu bieten, damit du klare nächste Schritte im Fokus hast und beim Parkour lernen Spaß und Erfolg hast, und im Flow bleibst. 
 
