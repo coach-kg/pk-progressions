@@ -3,6 +3,7 @@ title: Cat Hang
 tags:
   - Basics
   - WallMove
+  - Climbing
 ---
 
 Builds into:

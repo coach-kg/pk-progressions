@@ -3,6 +3,7 @@ title: Wallrun
 tags:
   - Basics
   - WallMove
+  - Climbing
 ---
 Also called: 
 * Passe muraille
@@ -17,6 +18,7 @@ Builds into:
 
 Chain it with:
 * [[Climb-Up]]
+* [[Dyno]]
 
 
 ---
